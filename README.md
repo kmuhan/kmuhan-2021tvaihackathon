@@ -11,7 +11,7 @@ Mask R-CNN 모델 개발 custom directory
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/66053034/145726143-95184060-0572-4388-9964-de8c35fc6913.gif)
 #
 
-source는 [samples/custom](https://github.com/kmuhan/kmuhan-2021tvaihackathon/tree/master/samples/custom)에 있습니다.
+**Main Source: [/samples/custom](https://github.com/kmuhan/kmuhan-2021tvaihackathon/tree/master/samples/custom)
 
 # Mask R-CNN for Object Detection and Segmentation
 
