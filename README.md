@@ -1,6 +1,9 @@
 # 2021 차로위반영상데이터 활용 AI 해커톤
 
+## 대상(1st) 수상작
+
 **TrafficFlow Team**
+> **Team mate: 정한결**
 
 Mask R-CNN 모델 개발 custom directory
 
