@@ -1,3 +1,15 @@
+# 2021 차로위반영상데이터 활용 AI 해커톤
+
+**TrafficFlow Team**
+
+Mask R-CNN 모델 개발 custom directory
+
+#
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/66053034/145726143-95184060-0572-4388-9964-de8c35fc6913.gif)
+#
+
+source는 ![samples/custom](https://github.com/kmuhan/kmuhan-2021tvaihackathon/tree/master/samples/custom)에 있습니다.
+
 # Mask R-CNN for Object Detection and Segmentation
 
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
